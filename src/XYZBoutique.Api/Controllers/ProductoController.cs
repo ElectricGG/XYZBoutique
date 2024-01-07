@@ -7,6 +7,7 @@ using XYZBoutique.Application.UseCase.UseCases.Usuario.Queries.GetByQuery;
 
 namespace XYZBoutique.Api.Controllers
 {
+    [Authorize]
     [Route("api/[controller]")]
     [ApiController]
     public class ProductoController : ControllerBase
@@ -14,7 +15,6 @@ namespace XYZBoutique.Api.Controllers
         private readonly IMediator _mediator;
         public ProductoController(IMediator mediator) => _mediator = mediator;
 
-        [AllowAnonymous]
         [HttpPost("ProductosBySkuOrNombre")]
         public async Task<IActionResult> ProductosBySkuOrNombre([FromBody] GetProductosBySkuOrNombreQuery query) => Ok(await _mediator.Send(query));
     }

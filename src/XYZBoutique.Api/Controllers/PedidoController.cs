@@ -16,22 +16,17 @@ namespace XYZBoutique.Api.Controllers
         private readonly IMediator _mediator;
         public PedidoController(IMediator mediator) => _mediator = mediator;
 
-        [AllowAnonymous]
         [HttpPost("Create")]
         public async Task<IActionResult> Create([FromBody] CreatePedidoCommand command)
         {
-            if (!ModelState.IsValid)
-            {
-            }
+            if (!ModelState.IsValid){}
 
             return Ok(await _mediator.Send(command));
         }
 
-        [AllowAnonymous]
         [HttpPost("UpdateEstadoPedido")]
         public async Task<IActionResult> UpdateEstadoPedido([FromBody] UpdateEstadoPedidoByIdCommand command) => Ok(await _mediator.Send(command));
 
-        [AllowAnonymous]
         [HttpGet("PedidosWithFilter")]
         public async Task<IActionResult> PedidosWithFilter([FromQuery]string nroPedido = null) => Ok(await _mediator.Send(new GetPedidosWithFilterQuery { NroPedido = nroPedido }));
     }
