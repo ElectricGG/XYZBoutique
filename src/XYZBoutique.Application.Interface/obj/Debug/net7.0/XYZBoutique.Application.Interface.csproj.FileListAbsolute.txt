@@ -1,0 +1,17 @@
+C:\Users\jesus\OneDrive\Escritorio\Prueba Tecnica\05012024\jesus-cuadros\Backend\XYZBoutique\src\XYZBoutique.Application.Interface\bin\Debug\net7.0\XYZBoutique.Application.Interface.deps.json
+C:\Users\jesus\OneDrive\Escritorio\Prueba Tecnica\05012024\jesus-cuadros\Backend\XYZBoutique\src\XYZBoutique.Application.Interface\bin\Debug\net7.0\XYZBoutique.Application.Interface.dll
+C:\Users\jesus\OneDrive\Escritorio\Prueba Tecnica\05012024\jesus-cuadros\Backend\XYZBoutique\src\XYZBoutique.Application.Interface\bin\Debug\net7.0\XYZBoutique.Application.Interface.pdb
+C:\Users\jesus\OneDrive\Escritorio\Prueba Tecnica\05012024\jesus-cuadros\Backend\XYZBoutique\src\XYZBoutique.Application.Interface\bin\Debug\net7.0\XYZBoutique.Application.Dtos.dll
+C:\Users\jesus\OneDrive\Escritorio\Prueba Tecnica\05012024\jesus-cuadros\Backend\XYZBoutique\src\XYZBoutique.Application.Interface\bin\Debug\net7.0\XYZBoutique.Domain.dll
+C:\Users\jesus\OneDrive\Escritorio\Prueba Tecnica\05012024\jesus-cuadros\Backend\XYZBoutique\src\XYZBoutique.Application.Interface\bin\Debug\net7.0\XYZBoutique.Application.Dtos.pdb
+C:\Users\jesus\OneDrive\Escritorio\Prueba Tecnica\05012024\jesus-cuadros\Backend\XYZBoutique\src\XYZBoutique.Application.Interface\bin\Debug\net7.0\XYZBoutique.Domain.pdb
+C:\Users\jesus\OneDrive\Escritorio\Prueba Tecnica\05012024\jesus-cuadros\Backend\XYZBoutique\src\XYZBoutique.Application.Interface\obj\Debug\net7.0\XYZBoutique.Application.Interface.csproj.AssemblyReference.cache
+C:\Users\jesus\OneDrive\Escritorio\Prueba Tecnica\05012024\jesus-cuadros\Backend\XYZBoutique\src\XYZBoutique.Application.Interface\obj\Debug\net7.0\XYZBoutique.Application.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesus\OneDrive\Escritorio\Prueba Tecnica\05012024\jesus-cuadros\Backend\XYZBoutique\src\XYZBoutique.Application.Interface\obj\Debug\net7.0\XYZBoutique.Application.Interface.AssemblyInfoInputs.cache
+C:\Users\jesus\OneDrive\Escritorio\Prueba Tecnica\05012024\jesus-cuadros\Backend\XYZBoutique\src\XYZBoutique.Application.Interface\obj\Debug\net7.0\XYZBoutique.Application.Interface.AssemblyInfo.cs
+C:\Users\jesus\OneDrive\Escritorio\Prueba Tecnica\05012024\jesus-cuadros\Backend\XYZBoutique\src\XYZBoutique.Application.Interface\obj\Debug\net7.0\XYZBoutique.Application.Interface.csproj.CoreCompileInputs.cache
+C:\Users\jesus\OneDrive\Escritorio\Prueba Tecnica\05012024\jesus-cuadros\Backend\XYZBoutique\src\XYZBoutique.Application.Interface\obj\Debug\net7.0\XYZBoutique.Application.Interface.csproj.CopyComplete
+C:\Users\jesus\OneDrive\Escritorio\Prueba Tecnica\05012024\jesus-cuadros\Backend\XYZBoutique\src\XYZBoutique.Application.Interface\obj\Debug\net7.0\XYZBoutique.Application.Interface.dll
+C:\Users\jesus\OneDrive\Escritorio\Prueba Tecnica\05012024\jesus-cuadros\Backend\XYZBoutique\src\XYZBoutique.Application.Interface\obj\Debug\net7.0\refint\XYZBoutique.Application.Interface.dll
+C:\Users\jesus\OneDrive\Escritorio\Prueba Tecnica\05012024\jesus-cuadros\Backend\XYZBoutique\src\XYZBoutique.Application.Interface\obj\Debug\net7.0\XYZBoutique.Application.Interface.pdb
+C:\Users\jesus\OneDrive\Escritorio\Prueba Tecnica\05012024\jesus-cuadros\Backend\XYZBoutique\src\XYZBoutique.Application.Interface\obj\Debug\net7.0\ref\XYZBoutique.Application.Interface.dll

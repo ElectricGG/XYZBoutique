@@ -1,0 +1,596 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jesus\\OneDrive\\Escritorio\\Prueba Tecnica\\05012024\\jesus-cuadros\\Backend\\XYZBoutique\\src\\XYZBoutique.Test\\XYZBoutique.Test.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jesus\\OneDrive\\Escritorio\\Prueba Tecnica\\05012024\\jesus-cuadros\\Backend\\XYZBoutique\\src\\XYZBoutique.Api\\XYZBoutique.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jesus\\OneDrive\\Escritorio\\Prueba Tecnica\\05012024\\jesus-cuadros\\Backend\\XYZBoutique\\src\\XYZBoutique.Api\\XYZBoutique.Api.csproj",
+        "projectName": "XYZBoutique.Api",
+        "projectPath": "C:\\Users\\jesus\\OneDrive\\Escritorio\\Prueba Tecnica\\05012024\\jesus-cuadros\\Backend\\XYZBoutique\\src\\XYZBoutique.Api\\XYZBoutique.Api.csproj",
+        "packagesPath": "C:\\Users\\jesus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jesus\\OneDrive\\Escritorio\\Prueba Tecnica\\05012024\\jesus-cuadros\\Backend\\XYZBoutique\\src\\XYZBoutique.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jesus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\jesus\\OneDrive\\Escritorio\\Prueba Tecnica\\05012024\\jesus-cuadros\\Backend\\XYZBoutique\\src\\XYZBoutique.Application.Dtos\\XYZBoutique.Application.Dtos.csproj": {
+                "projectPath": "C:\\Users\\jesus\\OneDrive\\Escritorio\\Prueba Tecnica\\05012024\\jesus-cuadros\\Backend\\XYZBoutique\\src\\XYZBoutique.Application.Dtos\\XYZBoutique.Application.Dtos.csproj"
+              },
+              "C:\\Users\\jesus\\OneDrive\\Escritorio\\Prueba Tecnica\\05012024\\jesus-cuadros\\Backend\\XYZBoutique\\src\\XYZBoutique.Application.Interface\\XYZBoutique.Application.Interface.csproj": {
+                "projectPath": "C:\\Users\\jesus\\OneDrive\\Escritorio\\Prueba Tecnica\\05012024\\jesus-cuadros\\Backend\\XYZBoutique\\src\\XYZBoutique.Application.Interface\\XYZBoutique.Application.Interface.csproj"
+              },
+              "C:\\Users\\jesus\\OneDrive\\Escritorio\\Prueba Tecnica\\05012024\\jesus-cuadros\\Backend\\XYZBoutique\\src\\XYZBoutique.Application.UseCase\\XYZBoutique.Application.UseCase.csproj": {
+                "projectPath": "C:\\Users\\jesus\\OneDrive\\Escritorio\\Prueba Tecnica\\05012024\\jesus-cuadros\\Backend\\XYZBoutique\\src\\XYZBoutique.Application.UseCase\\XYZBoutique.Application.UseCase.csproj"
+              },
+              "C:\\Users\\jesus\\OneDrive\\Escritorio\\Prueba Tecnica\\05012024\\jesus-cuadros\\Backend\\XYZBoutique\\src\\XYZBoutique.Infrastructure\\XYZBoutique.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\jesus\\OneDrive\\Escritorio\\Prueba Tecnica\\05012024\\jesus-cuadros\\Backend\\XYZBoutique\\src\\XYZBoutique.Infrastructure\\XYZBoutique.Infrastructure.csproj"
+              },
+              "C:\\Users\\jesus\\OneDrive\\Escritorio\\Prueba Tecnica\\05012024\\jesus-cuadros\\Backend\\XYZBoutique\\src\\XYZBoutique.Utilities\\XYZBoutique.Utilities.csproj": {
+                "projectPath": "C:\\Users\\jesus\\OneDrive\\Escritorio\\Prueba Tecnica\\05012024\\jesus-cuadros\\Backend\\XYZBoutique\\src\\XYZBoutique.Utilities\\XYZBoutique.Utilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[7.0.14, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.14, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jesus\\OneDrive\\Escritorio\\Prueba Tecnica\\05012024\\jesus-cuadros\\Backend\\XYZBoutique\\src\\XYZBoutique.Application.Dtos\\XYZBoutique.Application.Dtos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jesus\\OneDrive\\Escritorio\\Prueba Tecnica\\05012024\\jesus-cuadros\\Backend\\XYZBoutique\\src\\XYZBoutique.Application.Dtos\\XYZBoutique.Application.Dtos.csproj",
+        "projectName": "XYZBoutique.Application.Dtos",
+        "projectPath": "C:\\Users\\jesus\\OneDrive\\Escritorio\\Prueba Tecnica\\05012024\\jesus-cuadros\\Backend\\XYZBoutique\\src\\XYZBoutique.Application.Dtos\\XYZBoutique.Application.Dtos.csproj",
+        "packagesPath": "C:\\Users\\jesus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jesus\\OneDrive\\Escritorio\\Prueba Tecnica\\05012024\\jesus-cuadros\\Backend\\XYZBoutique\\src\\XYZBoutique.Application.Dtos\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jesus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jesus\\OneDrive\\Escritorio\\Prueba Tecnica\\05012024\\jesus-cuadros\\Backend\\XYZBoutique\\src\\XYZBoutique.Application.Interface\\XYZBoutique.Application.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jesus\\OneDrive\\Escritorio\\Prueba Tecnica\\05012024\\jesus-cuadros\\Backend\\XYZBoutique\\src\\XYZBoutique.Application.Interface\\XYZBoutique.Application.Interface.csproj",
+        "projectName": "XYZBoutique.Application.Interface",
+        "projectPath": "C:\\Users\\jesus\\OneDrive\\Escritorio\\Prueba Tecnica\\05012024\\jesus-cuadros\\Backend\\XYZBoutique\\src\\XYZBoutique.Application.Interface\\XYZBoutique.Application.Interface.csproj",
+        "packagesPath": "C:\\Users\\jesus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jesus\\OneDrive\\Escritorio\\Prueba Tecnica\\05012024\\jesus-cuadros\\Backend\\XYZBoutique\\src\\XYZBoutique.Application.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jesus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\jesus\\OneDrive\\Escritorio\\Prueba Tecnica\\05012024\\jesus-cuadros\\Backend\\XYZBoutique\\src\\XYZBoutique.Application.Dtos\\XYZBoutique.Application.Dtos.csproj": {
+                "projectPath": "C:\\Users\\jesus\\OneDrive\\Escritorio\\Prueba Tecnica\\05012024\\jesus-cuadros\\Backend\\XYZBoutique\\src\\XYZBoutique.Application.Dtos\\XYZBoutique.Application.Dtos.csproj"
+              },
+              "C:\\Users\\jesus\\OneDrive\\Escritorio\\Prueba Tecnica\\05012024\\jesus-cuadros\\Backend\\XYZBoutique\\src\\XYZBoutique.Domain\\XYZBoutique.Domain.csproj": {
+                "projectPath": "C:\\Users\\jesus\\OneDrive\\Escritorio\\Prueba Tecnica\\05012024\\jesus-cuadros\\Backend\\XYZBoutique\\src\\XYZBoutique.Domain\\XYZBoutique.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jesus\\OneDrive\\Escritorio\\Prueba Tecnica\\05012024\\jesus-cuadros\\Backend\\XYZBoutique\\src\\XYZBoutique.Application.UseCase\\XYZBoutique.Application.UseCase.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jesus\\OneDrive\\Escritorio\\Prueba Tecnica\\05012024\\jesus-cuadros\\Backend\\XYZBoutique\\src\\XYZBoutique.Application.UseCase\\XYZBoutique.Application.UseCase.csproj",
+        "projectName": "XYZBoutique.Application.UseCase",
+        "projectPath": "C:\\Users\\jesus\\OneDrive\\Escritorio\\Prueba Tecnica\\05012024\\jesus-cuadros\\Backend\\XYZBoutique\\src\\XYZBoutique.Application.UseCase\\XYZBoutique.Application.UseCase.csproj",
+        "packagesPath": "C:\\Users\\jesus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jesus\\OneDrive\\Escritorio\\Prueba Tecnica\\05012024\\jesus-cuadros\\Backend\\XYZBoutique\\src\\XYZBoutique.Application.UseCase\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jesus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\jesus\\OneDrive\\Escritorio\\Prueba Tecnica\\05012024\\jesus-cuadros\\Backend\\XYZBoutique\\src\\XYZBoutique.Application.Interface\\XYZBoutique.Application.Interface.csproj": {
+                "projectPath": "C:\\Users\\jesus\\OneDrive\\Escritorio\\Prueba Tecnica\\05012024\\jesus-cuadros\\Backend\\XYZBoutique\\src\\XYZBoutique.Application.Interface\\XYZBoutique.Application.Interface.csproj"
+              },
+              "C:\\Users\\jesus\\OneDrive\\Escritorio\\Prueba Tecnica\\05012024\\jesus-cuadros\\Backend\\XYZBoutique\\src\\XYZBoutique.Domain\\XYZBoutique.Domain.csproj": {
+                "projectPath": "C:\\Users\\jesus\\OneDrive\\Escritorio\\Prueba Tecnica\\05012024\\jesus-cuadros\\Backend\\XYZBoutique\\src\\XYZBoutique.Domain\\XYZBoutique.Domain.csproj"
+              },
+              "C:\\Users\\jesus\\OneDrive\\Escritorio\\Prueba Tecnica\\05012024\\jesus-cuadros\\Backend\\XYZBoutique\\src\\XYZBoutique.Utilities\\XYZBoutique.Utilities.csproj": {
+                "projectPath": "C:\\Users\\jesus\\OneDrive\\Escritorio\\Prueba Tecnica\\05012024\\jesus-cuadros\\Backend\\XYZBoutique\\src\\XYZBoutique.Utilities\\XYZBoutique.Utilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.9.0, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "WatchDog.NET": {
+              "target": "Package",
+              "version": "[1.4.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jesus\\OneDrive\\Escritorio\\Prueba Tecnica\\05012024\\jesus-cuadros\\Backend\\XYZBoutique\\src\\XYZBoutique.Domain\\XYZBoutique.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jesus\\OneDrive\\Escritorio\\Prueba Tecnica\\05012024\\jesus-cuadros\\Backend\\XYZBoutique\\src\\XYZBoutique.Domain\\XYZBoutique.Domain.csproj",
+        "projectName": "XYZBoutique.Domain",
+        "projectPath": "C:\\Users\\jesus\\OneDrive\\Escritorio\\Prueba Tecnica\\05012024\\jesus-cuadros\\Backend\\XYZBoutique\\src\\XYZBoutique.Domain\\XYZBoutique.Domain.csproj",
+        "packagesPath": "C:\\Users\\jesus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jesus\\OneDrive\\Escritorio\\Prueba Tecnica\\05012024\\jesus-cuadros\\Backend\\XYZBoutique\\src\\XYZBoutique.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jesus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.14, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jesus\\OneDrive\\Escritorio\\Prueba Tecnica\\05012024\\jesus-cuadros\\Backend\\XYZBoutique\\src\\XYZBoutique.Infrastructure\\XYZBoutique.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jesus\\OneDrive\\Escritorio\\Prueba Tecnica\\05012024\\jesus-cuadros\\Backend\\XYZBoutique\\src\\XYZBoutique.Infrastructure\\XYZBoutique.Infrastructure.csproj",
+        "projectName": "XYZBoutique.Infrastructure",
+        "projectPath": "C:\\Users\\jesus\\OneDrive\\Escritorio\\Prueba Tecnica\\05012024\\jesus-cuadros\\Backend\\XYZBoutique\\src\\XYZBoutique.Infrastructure\\XYZBoutique.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\jesus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jesus\\OneDrive\\Escritorio\\Prueba Tecnica\\05012024\\jesus-cuadros\\Backend\\XYZBoutique\\src\\XYZBoutique.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jesus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\jesus\\OneDrive\\Escritorio\\Prueba Tecnica\\05012024\\jesus-cuadros\\Backend\\XYZBoutique\\src\\XYZBoutique.Application.Interface\\XYZBoutique.Application.Interface.csproj": {
+                "projectPath": "C:\\Users\\jesus\\OneDrive\\Escritorio\\Prueba Tecnica\\05012024\\jesus-cuadros\\Backend\\XYZBoutique\\src\\XYZBoutique.Application.Interface\\XYZBoutique.Application.Interface.csproj"
+              },
+              "C:\\Users\\jesus\\OneDrive\\Escritorio\\Prueba Tecnica\\05012024\\jesus-cuadros\\Backend\\XYZBoutique\\src\\XYZBoutique.Domain\\XYZBoutique.Domain.csproj": {
+                "projectPath": "C:\\Users\\jesus\\OneDrive\\Escritorio\\Prueba Tecnica\\05012024\\jesus-cuadros\\Backend\\XYZBoutique\\src\\XYZBoutique.Domain\\XYZBoutique.Domain.csproj"
+              },
+              "C:\\Users\\jesus\\OneDrive\\Escritorio\\Prueba Tecnica\\05012024\\jesus-cuadros\\Backend\\XYZBoutique\\src\\XYZBoutique.Utilities\\XYZBoutique.Utilities.csproj": {
+                "projectPath": "C:\\Users\\jesus\\OneDrive\\Escritorio\\Prueba Tecnica\\05012024\\jesus-cuadros\\Backend\\XYZBoutique\\src\\XYZBoutique.Utilities\\XYZBoutique.Utilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jesus\\OneDrive\\Escritorio\\Prueba Tecnica\\05012024\\jesus-cuadros\\Backend\\XYZBoutique\\src\\XYZBoutique.Test\\XYZBoutique.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jesus\\OneDrive\\Escritorio\\Prueba Tecnica\\05012024\\jesus-cuadros\\Backend\\XYZBoutique\\src\\XYZBoutique.Test\\XYZBoutique.Test.csproj",
+        "projectName": "XYZBoutique.Test",
+        "projectPath": "C:\\Users\\jesus\\OneDrive\\Escritorio\\Prueba Tecnica\\05012024\\jesus-cuadros\\Backend\\XYZBoutique\\src\\XYZBoutique.Test\\XYZBoutique.Test.csproj",
+        "packagesPath": "C:\\Users\\jesus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jesus\\OneDrive\\Escritorio\\Prueba Tecnica\\05012024\\jesus-cuadros\\Backend\\XYZBoutique\\src\\XYZBoutique.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jesus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\jesus\\OneDrive\\Escritorio\\Prueba Tecnica\\05012024\\jesus-cuadros\\Backend\\XYZBoutique\\src\\XYZBoutique.Api\\XYZBoutique.Api.csproj": {
+                "projectPath": "C:\\Users\\jesus\\OneDrive\\Escritorio\\Prueba Tecnica\\05012024\\jesus-cuadros\\Backend\\XYZBoutique\\src\\XYZBoutique.Api\\XYZBoutique.Api.csproj"
+              },
+              "C:\\Users\\jesus\\OneDrive\\Escritorio\\Prueba Tecnica\\05012024\\jesus-cuadros\\Backend\\XYZBoutique\\src\\XYZBoutique.Application.UseCase\\XYZBoutique.Application.UseCase.csproj": {
+                "projectPath": "C:\\Users\\jesus\\OneDrive\\Escritorio\\Prueba Tecnica\\05012024\\jesus-cuadros\\Backend\\XYZBoutique\\src\\XYZBoutique.Application.UseCase\\XYZBoutique.Application.UseCase.csproj"
+              },
+              "C:\\Users\\jesus\\OneDrive\\Escritorio\\Prueba Tecnica\\05012024\\jesus-cuadros\\Backend\\XYZBoutique\\src\\XYZBoutique.Utilities\\XYZBoutique.Utilities.csproj": {
+                "projectPath": "C:\\Users\\jesus\\OneDrive\\Escritorio\\Prueba Tecnica\\05012024\\jesus-cuadros\\Backend\\XYZBoutique\\src\\XYZBoutique.Utilities\\XYZBoutique.Utilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.10, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.10, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Testing": {
+              "target": "Package",
+              "version": "[7.0.14, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.7.1, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jesus\\OneDrive\\Escritorio\\Prueba Tecnica\\05012024\\jesus-cuadros\\Backend\\XYZBoutique\\src\\XYZBoutique.Utilities\\XYZBoutique.Utilities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jesus\\OneDrive\\Escritorio\\Prueba Tecnica\\05012024\\jesus-cuadros\\Backend\\XYZBoutique\\src\\XYZBoutique.Utilities\\XYZBoutique.Utilities.csproj",
+        "projectName": "XYZBoutique.Utilities",
+        "projectPath": "C:\\Users\\jesus\\OneDrive\\Escritorio\\Prueba Tecnica\\05012024\\jesus-cuadros\\Backend\\XYZBoutique\\src\\XYZBoutique.Utilities\\XYZBoutique.Utilities.csproj",
+        "packagesPath": "C:\\Users\\jesus\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jesus\\OneDrive\\Escritorio\\Prueba Tecnica\\05012024\\jesus-cuadros\\Backend\\XYZBoutique\\src\\XYZBoutique.Utilities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jesus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

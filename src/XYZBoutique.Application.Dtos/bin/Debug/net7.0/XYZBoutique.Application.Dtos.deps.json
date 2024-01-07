@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "XYZBoutique.Application.Dtos/1.0.0": {
+        "runtime": {
+          "XYZBoutique.Application.Dtos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "XYZBoutique.Application.Dtos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

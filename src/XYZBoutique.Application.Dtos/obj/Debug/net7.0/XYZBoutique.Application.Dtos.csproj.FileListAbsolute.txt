@@ -1,0 +1,11 @@
+C:\Users\jesus\OneDrive\Escritorio\Prueba Tecnica\05012024\jesus-cuadros\Backend\XYZBoutique\src\XYZBoutique.Application.Dtos\bin\Debug\net7.0\XYZBoutique.Application.Dtos.deps.json
+C:\Users\jesus\OneDrive\Escritorio\Prueba Tecnica\05012024\jesus-cuadros\Backend\XYZBoutique\src\XYZBoutique.Application.Dtos\bin\Debug\net7.0\XYZBoutique.Application.Dtos.dll
+C:\Users\jesus\OneDrive\Escritorio\Prueba Tecnica\05012024\jesus-cuadros\Backend\XYZBoutique\src\XYZBoutique.Application.Dtos\bin\Debug\net7.0\XYZBoutique.Application.Dtos.pdb
+C:\Users\jesus\OneDrive\Escritorio\Prueba Tecnica\05012024\jesus-cuadros\Backend\XYZBoutique\src\XYZBoutique.Application.Dtos\obj\Debug\net7.0\XYZBoutique.Application.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesus\OneDrive\Escritorio\Prueba Tecnica\05012024\jesus-cuadros\Backend\XYZBoutique\src\XYZBoutique.Application.Dtos\obj\Debug\net7.0\XYZBoutique.Application.Dtos.AssemblyInfoInputs.cache
+C:\Users\jesus\OneDrive\Escritorio\Prueba Tecnica\05012024\jesus-cuadros\Backend\XYZBoutique\src\XYZBoutique.Application.Dtos\obj\Debug\net7.0\XYZBoutique.Application.Dtos.AssemblyInfo.cs
+C:\Users\jesus\OneDrive\Escritorio\Prueba Tecnica\05012024\jesus-cuadros\Backend\XYZBoutique\src\XYZBoutique.Application.Dtos\obj\Debug\net7.0\XYZBoutique.Application.Dtos.csproj.CoreCompileInputs.cache
+C:\Users\jesus\OneDrive\Escritorio\Prueba Tecnica\05012024\jesus-cuadros\Backend\XYZBoutique\src\XYZBoutique.Application.Dtos\obj\Debug\net7.0\XYZBoutique.Application.Dtos.dll
+C:\Users\jesus\OneDrive\Escritorio\Prueba Tecnica\05012024\jesus-cuadros\Backend\XYZBoutique\src\XYZBoutique.Application.Dtos\obj\Debug\net7.0\refint\XYZBoutique.Application.Dtos.dll
+C:\Users\jesus\OneDrive\Escritorio\Prueba Tecnica\05012024\jesus-cuadros\Backend\XYZBoutique\src\XYZBoutique.Application.Dtos\obj\Debug\net7.0\XYZBoutique.Application.Dtos.pdb
+C:\Users\jesus\OneDrive\Escritorio\Prueba Tecnica\05012024\jesus-cuadros\Backend\XYZBoutique\src\XYZBoutique.Application.Dtos\obj\Debug\net7.0\ref\XYZBoutique.Application.Dtos.dll

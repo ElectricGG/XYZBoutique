@@ -1,0 +1,11 @@
+C:\Users\jesus\OneDrive\Escritorio\Prueba Tecnica\05012024\jesus-cuadros\Backend\XYZBoutique\src\XYZBoutique.Utilities\bin\Debug\net7.0\XYZBoutique.Utilities.deps.json
+C:\Users\jesus\OneDrive\Escritorio\Prueba Tecnica\05012024\jesus-cuadros\Backend\XYZBoutique\src\XYZBoutique.Utilities\bin\Debug\net7.0\XYZBoutique.Utilities.dll
+C:\Users\jesus\OneDrive\Escritorio\Prueba Tecnica\05012024\jesus-cuadros\Backend\XYZBoutique\src\XYZBoutique.Utilities\bin\Debug\net7.0\XYZBoutique.Utilities.pdb
+C:\Users\jesus\OneDrive\Escritorio\Prueba Tecnica\05012024\jesus-cuadros\Backend\XYZBoutique\src\XYZBoutique.Utilities\obj\Debug\net7.0\XYZBoutique.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesus\OneDrive\Escritorio\Prueba Tecnica\05012024\jesus-cuadros\Backend\XYZBoutique\src\XYZBoutique.Utilities\obj\Debug\net7.0\XYZBoutique.Utilities.AssemblyInfoInputs.cache
+C:\Users\jesus\OneDrive\Escritorio\Prueba Tecnica\05012024\jesus-cuadros\Backend\XYZBoutique\src\XYZBoutique.Utilities\obj\Debug\net7.0\XYZBoutique.Utilities.AssemblyInfo.cs
+C:\Users\jesus\OneDrive\Escritorio\Prueba Tecnica\05012024\jesus-cuadros\Backend\XYZBoutique\src\XYZBoutique.Utilities\obj\Debug\net7.0\XYZBoutique.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\jesus\OneDrive\Escritorio\Prueba Tecnica\05012024\jesus-cuadros\Backend\XYZBoutique\src\XYZBoutique.Utilities\obj\Debug\net7.0\XYZBoutique.Utilities.dll
+C:\Users\jesus\OneDrive\Escritorio\Prueba Tecnica\05012024\jesus-cuadros\Backend\XYZBoutique\src\XYZBoutique.Utilities\obj\Debug\net7.0\refint\XYZBoutique.Utilities.dll
+C:\Users\jesus\OneDrive\Escritorio\Prueba Tecnica\05012024\jesus-cuadros\Backend\XYZBoutique\src\XYZBoutique.Utilities\obj\Debug\net7.0\XYZBoutique.Utilities.pdb
+C:\Users\jesus\OneDrive\Escritorio\Prueba Tecnica\05012024\jesus-cuadros\Backend\XYZBoutique\src\XYZBoutique.Utilities\obj\Debug\net7.0\ref\XYZBoutique.Utilities.dll

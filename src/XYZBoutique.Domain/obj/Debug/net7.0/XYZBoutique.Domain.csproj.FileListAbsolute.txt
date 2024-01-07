@@ -1,0 +1,14 @@
+C:\Users\jesus\OneDrive\Escritorio\Prueba Tecnica\05012024\jesus-cuadros\Backend\XYZBoutique\src\XYZBoutique.Domain\bin\Debug\net7.0\XYZBoutique.Domain.deps.json
+C:\Users\jesus\OneDrive\Escritorio\Prueba Tecnica\05012024\jesus-cuadros\Backend\XYZBoutique\src\XYZBoutique.Domain\bin\Debug\net7.0\XYZBoutique.Domain.runtimeconfig.json
+C:\Users\jesus\OneDrive\Escritorio\Prueba Tecnica\05012024\jesus-cuadros\Backend\XYZBoutique\src\XYZBoutique.Domain\bin\Debug\net7.0\XYZBoutique.Domain.dll
+C:\Users\jesus\OneDrive\Escritorio\Prueba Tecnica\05012024\jesus-cuadros\Backend\XYZBoutique\src\XYZBoutique.Domain\bin\Debug\net7.0\XYZBoutique.Domain.pdb
+C:\Users\jesus\OneDrive\Escritorio\Prueba Tecnica\05012024\jesus-cuadros\Backend\XYZBoutique\src\XYZBoutique.Domain\obj\Debug\net7.0\XYZBoutique.Domain.csproj.AssemblyReference.cache
+C:\Users\jesus\OneDrive\Escritorio\Prueba Tecnica\05012024\jesus-cuadros\Backend\XYZBoutique\src\XYZBoutique.Domain\obj\Debug\net7.0\XYZBoutique.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesus\OneDrive\Escritorio\Prueba Tecnica\05012024\jesus-cuadros\Backend\XYZBoutique\src\XYZBoutique.Domain\obj\Debug\net7.0\XYZBoutique.Domain.AssemblyInfoInputs.cache
+C:\Users\jesus\OneDrive\Escritorio\Prueba Tecnica\05012024\jesus-cuadros\Backend\XYZBoutique\src\XYZBoutique.Domain\obj\Debug\net7.0\XYZBoutique.Domain.AssemblyInfo.cs
+C:\Users\jesus\OneDrive\Escritorio\Prueba Tecnica\05012024\jesus-cuadros\Backend\XYZBoutique\src\XYZBoutique.Domain\obj\Debug\net7.0\XYZBoutique.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jesus\OneDrive\Escritorio\Prueba Tecnica\05012024\jesus-cuadros\Backend\XYZBoutique\src\XYZBoutique.Domain\obj\Debug\net7.0\XYZBoutique.Domain.dll
+C:\Users\jesus\OneDrive\Escritorio\Prueba Tecnica\05012024\jesus-cuadros\Backend\XYZBoutique\src\XYZBoutique.Domain\obj\Debug\net7.0\refint\XYZBoutique.Domain.dll
+C:\Users\jesus\OneDrive\Escritorio\Prueba Tecnica\05012024\jesus-cuadros\Backend\XYZBoutique\src\XYZBoutique.Domain\obj\Debug\net7.0\XYZBoutique.Domain.pdb
+C:\Users\jesus\OneDrive\Escritorio\Prueba Tecnica\05012024\jesus-cuadros\Backend\XYZBoutique\src\XYZBoutique.Domain\obj\Debug\net7.0\XYZBoutique.Domain.genruntimeconfig.cache
+C:\Users\jesus\OneDrive\Escritorio\Prueba Tecnica\05012024\jesus-cuadros\Backend\XYZBoutique\src\XYZBoutique.Domain\obj\Debug\net7.0\ref\XYZBoutique.Domain.dll

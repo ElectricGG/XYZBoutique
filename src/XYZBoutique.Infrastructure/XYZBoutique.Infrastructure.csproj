@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\XYZBoutique.Application.Interface\XYZBoutique.Application.Interface.csproj" />
+    <ProjectReference Include="..\XYZBoutique.Domain\XYZBoutique.Domain.csproj" />
+    <ProjectReference Include="..\XYZBoutique.Utilities\XYZBoutique.Utilities.csproj" />
+  </ItemGroup>
+
+</Project>
