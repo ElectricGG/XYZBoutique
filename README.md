@@ -39,7 +39,11 @@ Este proyecto es una aplicación de Boutique que gestiona pedidos. A continuaci�
 - Todos los endpoints que requieren autenticación deben incluir un token de acceso válido en la cabecera de la solicitud.
 - Consulta la documentación detallada de cada endpoint para obtener información específica sobre los payloads y los parámetros necesarios.
 - Las credenciales para obtener el token se obtienden desde [Credenciales de Usuario].
-- Servidor de despliegue para probar endpoints: 181.66.17.25:8082
+- Servidor donde esta desplegado para probar endpoints:  http://181.66.17.25:8082
+- Ruta donde se guardan los logs http://181.66.17.25:8082/watchdog
+- Credenciales del watchdog:  
+  Username: admin  
+  Password: admin
 
 [Detalles del Pedido]: #detalles-del-pedido
 [Detalles del Pedido con Estado Actualizado]: #detalles-del-pedido-con-estado-actualizado
